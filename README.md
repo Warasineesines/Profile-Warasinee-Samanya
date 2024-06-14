@@ -6,7 +6,7 @@ Professional with experience in Sales Coordinator (Mitsui & Co., Thailand) and C
 Seeking a Data Analyst role where I can contribute valuable insights.
 
 ## Skills
-- Spreadsheets
+- [Spreadsheets](https://github.com/Warasineesines/Spreadsheets)
 - SQL
 - Programming [R, Python]
 - Data Transformation
