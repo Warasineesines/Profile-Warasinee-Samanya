@@ -14,7 +14,7 @@ Seeking a Data Analyst role where I can contribute valuable insights.
 - Data Analysis with Statistics + Machine Learning
 - Dashboard & Reporting
 
-## Languageห
+## Languages
 - Thai native
 - English TOEIC 800, IELTS 6.0 (General Training)
 
