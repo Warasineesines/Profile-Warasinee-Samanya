@@ -12,7 +12,7 @@ Seeking a Data Analyst role where I can contribute valuable insights.
 - Data Transformation
 - Data Visualization
 - Data Analysis with Statistics + Machine Learning
-- Dashboard & Reporting
+- [Dashboard & Reporting](https://github.com/Warasineesines/Dashboard-Reporting/blob/main/README.md) - Looker Studio, Tableau Public
 
 ## Languages
 - Thai native
