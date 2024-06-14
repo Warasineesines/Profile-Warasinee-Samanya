@@ -7,7 +7,7 @@ Seeking a Data Analyst role where I can contribute valuable insights.
 
 ## Skills
 - [Spreadsheets](https://github.com/Warasineesines/Spreadsheets)
-- SQL
+- [SQL](https://github.com/Warasineesines/SQL)
 - Programming [R, Python]
 - Data Transformation
 - Data Visualization
