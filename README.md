@@ -11,7 +11,8 @@ Seeking a Data Analyst role where I can contribute valuable insights.
 - Programming [[R](https://github.com/Warasineesines/R/blob/main/README.md), [Python](https://github.com/Warasineesines/Python/blob/main/README.md)]
 - Data Transformation
 - [Data Visualization](https://github.com/Warasineesines/Data-Visualization/blob/main/README.md)
-- Data Analysis with Statistics + Machine Learning
+- Data Analysis with Statistics - Regression, AB Test, Confidence Interval
+- Machine Learning
 - [Dashboard & Reporting](https://github.com/Warasineesines/Dashboard-Reporting/blob/main/README.md) - Looker Studio, Tableau Public
 
 ## 🦆Certificates
