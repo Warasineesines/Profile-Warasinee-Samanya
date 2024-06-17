@@ -5,7 +5,7 @@
 Professional with experience in Sales Coordinator (Mitsui & Co., Thailand) and Customer Account Specialist (ExxonMobil). Eager to leverage my business knowledge in the data-driven field by learning in-demand skills like SQL, R Language, Python, Visualization, etc.
 Seeking a Data Analyst role where I can contribute valuable insights.
 
-## 🍰Skills
+## 🍰Skills & Projects
 - [Spreadsheets](https://github.com/Warasineesines/Spreadsheets)
 - [SQL](https://github.com/Warasineesines/SQL)
 - Programming [[R](https://github.com/Warasineesines/R/blob/main/README.md), [Python](https://github.com/Warasineesines/Python/blob/main/README.md)]
